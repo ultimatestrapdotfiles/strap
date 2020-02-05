@@ -91,10 +91,10 @@ strap::fs::path() {
 }
 
 STRAP_GIT_NAME="$(id -F)"
-STRAP_GIT_EMAIL=
-STRAP_GITHUB_USER=
-STRAP_GITHUB_TOKEN=
-STRAP_ISSUES_URL="https://github.com/ultimatedotfiles/strap/issues/new"
+STRAP_GIT_EMAIL="s.glova@it.privilegija.ua"
+STRAP_GITHUB_USER="sglova"
+STRAP_GITHUB_TOKEN="c8293f8de06c47fb99ed1714b62e188d82250b4c"
+STRAP_ISSUES_URL="https://github.com/ultimatestrapdotfiles/strap/issues/new"
 
 STRAP_FULL_PATH="$(strap::fs::path "${BASH_SOURCE[0]}")"
 

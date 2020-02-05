@@ -41,7 +41,7 @@ git:
 
 hooks:
   dependencies:
-    - com.github.lhazlewood:strap-hello:1.0.0
+    - com.github.glova:strap-master
   run:
     items:
       - ospkg gnupg, httpie, liquidprompt, java8, jenv
