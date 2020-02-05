@@ -31,7 +31,7 @@ curl -fsSL https://raw.githubusercontent.com/ultimatestrapdotfiles/strap/master/
 Or if you have custom hooks to run as well:
     
 ```bash
-curl -fsSL https://raw.githubusercontent.com/ultimatestrapdotfiles/strap/master/run | bash -s -- --with-hook-package='com.github.myorg:myrepo:gitref'
+curl -fsSL https://raw.githubusercontent.com/ultimatestrapdotfiles/strap/master/run | bash -s -- --with-hook-package='com.github.sglova:strap:master'
 ```
 
 Or you can install it manually.
